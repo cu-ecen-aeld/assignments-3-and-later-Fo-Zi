@@ -1,5 +1,5 @@
 # - Assignment 3 -
-[![assignment-autotest-test](https://github.com/cu-ecen-aeld/assignment-2-Fo-Zi/actions/workflows/github-actions.yml/badge.svg)](https://github.com/cu-ecen-aeld/assignment-2-Fo-Zi/actions/workflows/github-actions.yml)
+[![assignment-autotest-test](https://github.com/cu-ecen-aeld/assignments-3-and-later-Fo-Zi/actions/workflows/github-actions.yml/badge.svg)](https://github.com/cu-ecen-aeld/assignments-3-and-later-Fo-Zi/actions/workflows/github-actions.yml)
 
 This repo contains the base/template files regarding the second assignment of the course "Linux System Programming and Introduction to Buildroot", and the added scripts in order to pass all the tests.
 
